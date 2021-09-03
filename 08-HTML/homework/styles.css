@@ -1,0 +1,24 @@
+h1{
+    color: rgb(66, 129, 164)
+}
+img{
+    width: 400px;
+    height: 280px;
+}
+#thirdDiv {
+
+    display: inline-block;
+    height: 600px;
+    width: 500px;
+    background: rgb(239, 235, 206);
+    padding: 5px;
+    border: solid 5px rgb(216, 164, 143);
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    text-align: center;
+    background-image: url("https://share.america.gov/wp-content/uploads/2019/05/shutterstock_533100223.jpg");
+}
