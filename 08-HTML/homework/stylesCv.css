@@ -18,8 +18,17 @@ h1 {
     padding: 20px;
     border: solid 2px rgb(181, 228, 140);
     margin: auto;
+    //position: fixed;
 }
+#nombre{
+    background: rgb(24, 78, 119);
+    color: rgb(229, 237, 244);
+    padding: 20px;
+    border: solid 2px rgb(181, 228, 140);
+    margin: auto;
+    width: 760px;
 
+}
 h2 {
     background: rgb(30, 96, 145);
     color: rgb(8229, 237, 244);
@@ -55,6 +64,7 @@ ul {
 
 li {
     padding: 5px;
+    text-align: justify;
 }
 
 p {
@@ -63,4 +73,5 @@ p {
     padding-top: 20px;
     padding-bottom: 20px;
     background: rgb(229, 237, 244);
+    text-align: justify;
 }
